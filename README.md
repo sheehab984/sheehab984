@@ -42,5 +42,5 @@ I'm Sheehab, a dynamic Full-Stack Engineer and Financial Tech enthusiast from Co
 
 ## GitHub Stats
 
-![Sheehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheehabpranto&count_private=true&show_icons=true&theme=radical)
+![Sheehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheehab984&count_private=true&show_icons=true&theme=radical)
 
