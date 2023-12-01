@@ -2,49 +2,45 @@
 
 ## Greetings!
 
-I'm Sheehab, a creative Full-Stack Engineer and Financial Tech enthusiast from Colchester, UK. I thrive on Python, React, and cloud innovations, and I'm open to exploring new territories and opportunities. Check out my journey!
+I'm Sheehab, a dynamic Full-Stack Engineer and Financial Tech enthusiast from Colchester, UK. I'm adept with Python, React, and cloud innovations, eagerly looking to tackle new challenges. Dive into my professional story!
 
 ## What's on my radar?
 
-- Crafting robust full-stack applications with a dash of Python and a sprinkle of React.
-- Diving deep into the cloud with AWS and serverless architectures.
-- Agile all the way – I love iterating and improving.
-- Keen on contributing to open-source - because sharing is caring!
-- Juggling my MSc in Financial Tech at the University of Essex.
-- Occasionally, I'm the Scrum Master, helping my team sprint to success!
+- Developing robust full-stack applications with Python and React.
+- Exploring the depths of cloud computing with AWS and serverless architectures.
+- Embracing Agile principles for continuous iteration and improvement.
+- Functioning as a Scrum Master, steering my team towards efficiency and success.
 
-## Tech I jive with
+## Tech Stack
 
-- **Back-End Beat:**
-  - Python serenades, Node.js rhythms, Java grooves.
-  - Frameworks: Flask's simplicity, Django's jazz, Spring's bounce.
-  - Data Databases: SQL's structure, NoSQL's freedom.
+- **Back-End Technologies:**
+  - `Python`, `Node.js`, `Java`
+  - Frameworks: `Flask`, `Django`, `Spring`
+  - Databases: `SQL`, `NoSQL`
 
-- **Front-End Groove:**
-  - React.js's reactiveness, Next.js's next-level stuff.
-  - Styling with CSS, making it sleek, making it chic.
+- **Front-End Development:**
+  - `React.js`, `Next.js`
+  - Styling: `CSS`, `Styled-Components`
 
-- **DevOps & Cloud Choreography:**
-  - Docker's container moves, AWS's high-flying cloud acts.
-  - CI/CD pipelines – smooth, automated, and slick.
+- **DevOps & Cloud Technologies:**
+  - Containerization: `Docker`, `AWS ECS`
+  - CI/CD: `GitHub Actions`, `Jenkins`
 
-- **Collab Harmony:**
-  - Git's version control duet, Agile's flexible dance.
+- **Collaboration & Version Control:**
+  - `Git`, Agile workflows
 
 ## Education & Accolades
 
-- **MSc. Financial Technology** - University of Essex, UK (On-going wizardry!)
-- **BSc. Computer Science** - American International University Bangladesh (Been there, aced that!)
-- **Recognition:** Employee of the Year 2021 at BJIT LTD - for some serious tech symphonies.
+- **MSc. Financial Technology** - University of Essex, UK
+- **BSc. Computer Science** - American International University Bangladesh
+- **Recognition:** Employee of the Year 2021 at BJIT LTD for exceptional performance.
 
 ## Let's Connect!
 
 - **LinkedIn:** [sheehabpranto](https://www.linkedin.com/in/sheehabpranto)
-- **Email:** [Drop a line!](mailto:sheehabpranto@gmail.com)
-- **Phone:** Give a ring! +44 (0) 7405393488
+- **Email:** [sheehabpranto@gmail.com](mailto:sheehabpranto@gmail.com)
 
-## My GitHub Mixtape
+## GitHub Stats
 
-- **Total Commits:** Just like my coffee, I keep 'em strong and daily.
-- **Open Source Contributions:** More than a hobby, it's a passion.
-- **Current Streak:** Coding every day, 'cause why not?
+![Sheehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheehabpranto&count_private=true&show_icons=true&theme=radical)
+
