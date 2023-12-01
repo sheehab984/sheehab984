@@ -14,17 +14,18 @@ I'm Sheehab, a dynamic Full-Stack Engineer and Financial Tech enthusiast from Co
 ## Tech Stack
 
 - **Back-End Technologies:**
-  - `Python`, `Node.js`, `Java`
-  - Frameworks: `Flask`, `Django`, `Spring`
+  - `Python`, `Node.js`, `Java`, `Kotlin`
+  - Frameworks: `Flask`, `Django`, `Nest.js`, `Express.js`, `Spring`
   - Databases: `SQL`, `NoSQL`
 
 - **Front-End Development:**
   - `React.js`, `Next.js`
-  - Styling: `CSS`, `Styled-Components`
+  - Styling: `CSS`, `Taitlwind`, `mui`
 
 - **DevOps & Cloud Technologies:**
   - Containerization: `Docker`, `AWS ECS`
-  - CI/CD: `GitHub Actions`, `Jenkins`
+  - CI/CD: `GitHub Actions`, `Circle CI`
+  - Cloud Platforms: `AWS`, `GCP`
 
 - **Collaboration & Version Control:**
   - `Git`, Agile workflows
@@ -39,8 +40,3 @@ I'm Sheehab, a dynamic Full-Stack Engineer and Financial Tech enthusiast from Co
 
 - **LinkedIn:** [sheehabpranto](https://www.linkedin.com/in/sheehabpranto)
 - **Email:** [sheehabpranto@gmail.com](mailto:sheehabpranto@gmail.com)
-
-## GitHub Stats
-
-![Sheehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheehab984&count_private=true&show_icons=true&theme=radical)
-
